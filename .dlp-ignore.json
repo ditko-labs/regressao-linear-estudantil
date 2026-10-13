@@ -1,0 +1,12 @@
+[
+    {
+        "path": "dados/edutech_performance.csv",
+        "policy": "CreditCardPolicy",
+        "justification": "Notas e percentuais sintéticos do exercício de AED, gerados com a semente 42; não são cartões."
+    },
+    {
+        "path": "dados/edutech_performance_tratada.csv",
+        "policy": "CreditCardPolicy",
+        "justification": "Notas e percentuais sintéticos do exercício de AED, gerados com a semente 42; não são cartões."
+    }
+]
