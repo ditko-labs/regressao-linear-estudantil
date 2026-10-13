@@ -1,9 +1,10 @@
-# Relatório executivo — EduTech Impacta Solutions
+# Relatório — EduTech Impacta Solutions
 
 **Para:** gestão acadêmica da UNIMPACTA
 **Assunto:** desempenho de 250 alunos na plataforma e onde agir
 **Base:** `dados/edutech_performance.csv`, gerada com a semente 42 do exercício
 **Complemento técnico:** `EP_AED_EduTech.ipynb`
+**Grupo:** Ryan Rodrigues Cordeiro e Felipe Wilson Viana
 
 A turma, vista pela média, vai bem. A nota média saneada é 7,52, com intervalo de 95% de confiança entre 7,31 e 7,72, e 80,8% dos alunos foram aprovados (202 de 250). O problema não está no centro da turma. Está nos 33 alunos que estudam até 8 horas por semana: a aprovação nesse grupo cai para 21%, e ele concentra 55% das reprovações, embora seja só 13% da base com nota válida.
 

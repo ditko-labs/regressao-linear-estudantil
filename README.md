@@ -1,6 +1,6 @@
 # EduTech Impacta Solutions — Análise exploratória de dados
 
-Exercício programa da disciplina de Análise Exploratória de Dados (Centro Universitário Impacta, Prof. Kyung Moo Kim).
+Exercício programa da disciplina de Análise Exploratória de Dados (Centro Universitário Impacta, Prof. Kyung Moo Kim). Grupo: Ryan Rodrigues Cordeiro e Felipe Wilson Viana.
 
 A base tem 250 alunos e é recriada no notebook com a semente 42 do enunciado. O código, os testes e os gráficos estão em `EP_AED_EduTech.ipynb`. A leitura para a gestão está em `Relatorio.md`.
 
